@@ -2,3 +2,7 @@ image-classification/cifar-10-batches-py/
 *.zip
 *.gz
 *.p
+
+transfer-learning/codes
+
+transfer-learning/labels
