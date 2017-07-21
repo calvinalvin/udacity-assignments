@@ -6,3 +6,5 @@ image-classification/cifar-10-batches-py/
 transfer-learning/codes
 
 transfer-learning/labels
+
+embeddings/data/
