@@ -4,7 +4,7 @@ image-classification/cifar-10-batches-py/
 *.p
 
 transfer-learning/codes
-
 transfer-learning/labels
 
 embeddings/data/
+embeddings/checkpoints/
