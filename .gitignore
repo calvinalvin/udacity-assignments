@@ -8,3 +8,5 @@ transfer-learning/labels
 
 embeddings/data/
 embeddings/checkpoints/
+
+tv-script-generation/save.*
