@@ -12,3 +12,5 @@ embeddings/checkpoints/
 tv-script-generation/save.*
 
 seq2seq/best_model.*
+
+face_generation/data
